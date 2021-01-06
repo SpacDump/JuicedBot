@@ -1,0 +1,18 @@
+{
+  "name": "jacks-bot",
+  "version": "0.0.1",
+  "description": "Jack's Official Bot Thing :)",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ignJack",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "got": "^11.8.0",
+    "moment": "^2.29.1",
+    "node-superfetch": "^0.1.10"
+  }
+}
